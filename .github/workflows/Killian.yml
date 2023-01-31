@@ -12,6 +12,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: files.000webhost.com
-        username: projet-killian-esiee-it
-        password: sGPFTQEBXfz3Q4RMpZdq
+        username: projetnfkillian
+        password: 3Sp4VolVX8kIl)qmWn!I
         server-dir : public_html/
